@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/AuthGate.tsx","./src/components/Dashboard.tsx","./src/components/G1DualTrade.tsx","./src/components/OrbStrategy.tsx","./src/components/StrategySuite.tsx","./src/components/TripleTradePopup.tsx","./src/services/derivStream.tsx","./src/types/index.ts"],"version":"5.9.3"}
